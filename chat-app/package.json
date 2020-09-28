@@ -1,0 +1,17 @@
+{
+  "name": "chat-server",
+  "version": "1.0.0",
+  "description": "Before starting on the assignment make sure you have Git and NodeJS installed on your machine and that you have a GitHub Account. For more information about the git commands, look at the course website.",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.1.3"
+  },
+  "dependencies": {
+    "node": "^14.11.0"
+  }
+}
